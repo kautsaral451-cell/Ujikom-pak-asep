@@ -223,7 +223,12 @@ Email Address           : rahasia
 
 ## Edit Konfigurasi SSL
 
-File:
+```
+webmin
+└──tools
+    └──file manager
+```
+Masuk ke:
 
 ```text
 /etc/apache2/sites-enabled/default-ssl.conf
