@@ -250,11 +250,6 @@ a2ensite default-ssl.conf
 systemctl reload apache2
 ```
 
-## Uji HTTPS
-
-```
-https://172.16.51.115
-```
 
 ---
 
